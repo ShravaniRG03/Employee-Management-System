@@ -181,10 +181,6 @@ def add():
 	add.deiconify()
 	root.withdraw()
 
-# def view():
-# 	view.deiconify()
-# 	root.withdraw()
-
 def delete():
 	delete.deiconify()
 	root.withdraw()
